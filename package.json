@@ -1,0 +1,22 @@
+{
+  "name": "quasar-app-extension-cila-lib",
+  "version": "0.0.2",
+  "description": "A Quasar App Extension",
+  "author": "bibhu-padhy <bibhupadhy140@gmail.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "homepage": "",
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  }
+}
