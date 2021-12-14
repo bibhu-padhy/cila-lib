@@ -7,6 +7,7 @@ function extendConf (conf) {
   conf.build.transpileDependencies.push(/quasar-app-extension-cila-lib[\\/]src/)
 
 }
+// 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
 
 module.exports = function (api) {
   api.extendQuasarConf(extendConf)
